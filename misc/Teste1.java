@@ -4,11 +4,8 @@ public class Teste1 {
 
     public static void main(String[] args) {
 
-        int num1 = 10;
-        int num2 = 20;
+        int[] vet = {1, 2, 3, 4, 5};
 
-        double soma = Contas.soma(num1, num2);
 
-        System.out.println("Soma: " + soma);
     }
 }
